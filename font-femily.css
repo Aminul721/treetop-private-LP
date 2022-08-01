@@ -1,0 +1,40 @@
+
+
+.demo {
+	font-family: 'Source Sans Pro', sans-serif;
+
+
+
+
+    font-family: 'Source Serif Pro', serif;
+
+    font-family: 'Nothing You Could Do', cursive;
+}
+
+
+:root {
+    /*----- color variable -----*/
+  --light_white_color: #F7F4EF;
+
+  --light_white_colorV2: #EAEAEA;
+
+  --light_white_colorV3: #E5E5E5;
+
+  --white_color: #fff;
+
+  --light_green_color: #92B231;
+
+  --black_color: #201F21;
+
+  --black_colorv1: rgba(32, 31, 33, 0.6);
+
+  --heading_fs_h1: 48px;
+
+  --heading_lh_h1: 60px;
+
+  --heading_fs_h2: 32px;
+
+  --heading_lh_h2: 40px;
+
+  --font_family_Serif: 'Source Serif Pro', serif;
+}
